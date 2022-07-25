@@ -1,0 +1,23 @@
+{
+  "name": "slider",
+  "version": "1.0.0",
+  "description": "make a slider using vanilla javascript",
+  "default": "index.html",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html --dist-dir ./dist "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zhuqigong-2021/SliderPractice.git"
+  },
+  "author": "Zhuqigong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zhuqigong-2021/SliderPractice/issues"
+  },
+  "homepage": "https://github.com/Zhuqigong-2021/SliderPractice#readme",
+  "devDependencies": {
+    "parcel": "^2.6.2"
+  }
+}
